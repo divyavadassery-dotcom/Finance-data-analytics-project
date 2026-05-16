@@ -1,0 +1,501 @@
+Customer_ID,Customer_Name,Age,Gender,City,Purchase_Date,Category,Amount,Payment_Method,Rating
+C001,Meera,19,Female,Calicut,23-03-2026,Groceries,9344,UPI,5
+C002,Sam,45,Male,Kochi,12-01-2026,Electronics,14528,Card,5
+C003,Rahul,53,Male,Kollam,19-03-2026,Sports,46162,Net Banking,2
+C004,Sam,35,Male,Malappuram,27-02-2026,Home Decor,10663,Net Banking,3
+C005,John,31,Female,Kochi,05-02-2026,Electronics,25098,UPI,3
+C006,Sneha,56,Female,Malappuram,19-04-2026,Electronics,48023,Net Banking,5
+C007,Amit,23,Female,Malappuram,16-01-2026,Sports,40735,Cash,5
+C008,Arjun,20,Male,Malappuram,25-01-2026,Fashion,5429,Card,1
+C009,David,47,Female,Calicut,18-02-2026,Fashion,23483,Card,3
+C010,Arjun,56,Male,Thrissur,31-03-2026,Sports,16243,Card,4
+C011,David,58,Male,Kollam,18-02-2026,Fashion,3865,Card,1
+C012,Kiran,43,Female,Kochi,14-04-2026,Groceries,37370,Cash,2
+C013,Pooja,43,Female,Calicut,25-03-2026,Fashion,9350,Card,5
+C014,David,55,Female,Thrissur,10-03-2026,Beauty,23923,Card,2
+C015,Pooja,23,Male,Malappuram,07-03-2026,Electronics,10216,Card,4
+C016,Arjun,42,Female,Thrissur,18-03-2026,Beauty,34876,Cash,5
+C017,Rahul,25,Female,Malappuram,21-04-2026,Sports,22493,UPI,3
+C018,Asha,47,Male,Kollam,25-02-2026,Sports,17461,Card,5
+C019,Meera,58,Female,Malappuram,27-04-2026,Sports,33470,Card,2
+C020,Asha,52,Male,Thrissur,17-02-2026,Fashion,32221,UPI,1
+C021,Sneha,37,Male,Kochi,29-04-2026,Groceries,37382,UPI,1
+C022,Pooja,22,Male,Calicut,04-04-2026,Sports,31348,Card,3
+C023,Riya,45,Male,Thrissur,09-03-2026,Home Decor,48036,Card,3
+C024,Sneha,46,Female,Kochi,21-02-2026,Groceries,14925,UPI,3
+C025,Sam,53,Male,Thrissur,03-01-2026,Groceries,671,UPI,1
+C026,Arjun,20,Female,Kochi,30-01-2026,Books,15797,Cash,4
+C027,Neha,26,Female,Calicut,28-01-2026,Home Decor,31196,Net Banking,2
+C028,Meera,60,Female,Trivandrum,13-01-2026,Beauty,27141,Net Banking,1
+C029,Meera,21,Female,Kollam,28-03-2026,Fashion,7361,Card,2
+C030,Neha,46,Male,Kannur,25-01-2026,Groceries,18454,Net Banking,2
+C031,Arjun,46,Male,Kochi,22-04-2026,Sports,35627,UPI,1
+C032,Anu,28,Female,Kannur,29-04-2026,Beauty,14208,Net Banking,1
+C033,Amit,18,Female,Trivandrum,22-01-2026,Home Decor,30019,Cash,4
+C034,Neha,60,Female,Calicut,31-03-2026,Groceries,19645,Card,1
+C035,Neha,21,Female,Kochi,16-03-2026,Electronics,38484,Net Banking,5
+C036,Akash,28,Male,Thrissur,28-04-2026,Electronics,12378,UPI,5
+C037,Anu,43,Male,Thrissur,09-01-2026,Groceries,38140,UPI,5
+C038,Divya,60,Female,Trivandrum,11-01-2026,Groceries,44091,Cash,2
+C039,Amit,26,Female,Kannur,03-02-2026,Fashion,49474,UPI,1
+C040,Riya,54,Male,Kochi,28-02-2026,Books,14169,Cash,2
+C041,Sneha,22,Male,Trivandrum,30-04-2026,Fashion,10538,Net Banking,5
+C042,Nisha,57,Male,Kollam,01-04-2026,Home Decor,36546,Cash,1
+C043,John,34,Male,Kochi,01-05-2026,Sports,36456,Card,3
+C044,Riya,31,Female,Calicut,06-02-2026,Sports,41765,Cash,5
+C045,David,21,Male,Kollam,04-03-2026,Beauty,18332,UPI,1
+C046,John,58,Female,Calicut,12-02-2026,Sports,29156,Net Banking,5
+C047,Meera,22,Male,Thrissur,02-01-2026,Electronics,24396,Card,4
+C048,Priya,37,Female,Malappuram,17-01-2026,Home Decor,2814,Cash,2
+C049,Anu,60,Male,Trivandrum,29-03-2026,Home Decor,36892,Net Banking,5
+C050,John,33,Male,Malappuram,06-04-2026,Home Decor,11803,Net Banking,1
+C051,Kiran,44,Male,Trivandrum,23-01-2026,Groceries,46158,UPI,4
+C052,Priya,48,Male,Calicut,22-04-2026,Home Decor,30366,Cash,3
+C053,Anu,32,Male,Kollam,16-04-2026,Groceries,26313,Cash,3
+C054,Arjun,35,Female,Kollam,21-04-2026,Books,26393,Cash,1
+C055,David,29,Female,Kochi,15-01-2026,Electronics,39296,Net Banking,3
+C056,Kiran,45,Male,Kannur,04-04-2026,Books,12657,Cash,1
+C057,Divya,18,Male,Trivandrum,01-04-2026,Beauty,4785,Cash,5
+C058,Meera,37,Female,Kollam,10-02-2026,Beauty,21576,Net Banking,3
+C059,John,30,Female,Kollam,12-03-2026,Beauty,44588,Card,5
+C060,Nisha,43,Male,Trivandrum,14-03-2026,Fashion,13974,Net Banking,5
+C061,Kiran,47,Female,Kannur,19-03-2026,Sports,14205,Net Banking,2
+C062,Arjun,36,Female,Kochi,26-03-2026,Home Decor,49426,Card,3
+C063,Vivek,27,Male,Kochi,29-01-2026,Groceries,31338,UPI,4
+C064,Sam,30,Female,Kannur,23-02-2026,Beauty,16189,Card,1
+C065,Meera,45,Male,Calicut,25-04-2026,Home Decor,45807,Net Banking,1
+C066,Anu,25,Female,Calicut,13-03-2026,Home Decor,30650,Cash,4
+C067,Akash,45,Female,Calicut,20-03-2026,Sports,31308,Net Banking,3
+C068,Anu,58,Female,Malappuram,07-04-2026,Home Decor,34363,Net Banking,2
+C069,Rohan,22,Female,Calicut,05-02-2026,Fashion,22210,Cash,5
+C070,John,27,Male,Kannur,11-01-2026,Sports,10214,Card,1
+C071,Divya,39,Female,Kannur,23-02-2026,Electronics,13755,Net Banking,4
+C072,Sam,19,Female,Kannur,26-04-2026,Electronics,23252,Cash,4
+C073,Divya,52,Male,Kannur,20-04-2026,Groceries,18087,Net Banking,4
+C074,Amit,39,Female,Kollam,04-01-2026,Groceries,30830,Card,5
+C075,Rahul,43,Male,Kochi,10-03-2026,Sports,28289,Card,4
+C076,Priya,34,Female,Trivandrum,24-01-2026,Groceries,29999,Cash,3
+C077,Amit,35,Female,Trivandrum,08-04-2026,Home Decor,5567,Net Banking,1
+C078,Neha,21,Female,Calicut,06-04-2026,Sports,4696,UPI,1
+C079,Vivek,19,Male,Calicut,01-02-2026,Groceries,31235,UPI,5
+C080,Rohan,34,Female,Calicut,28-01-2026,Books,39996,UPI,2
+C081,Meera,55,Male,Trivandrum,09-02-2026,Books,44590,Net Banking,4
+C082,Vivek,22,Male,Kochi,01-05-2026,Sports,19964,UPI,5
+C083,Priya,40,Female,Kollam,11-04-2026,Fashion,4719,Cash,1
+C084,Divya,49,Male,Kannur,19-04-2026,Fashion,41853,Net Banking,2
+C085,Asha,51,Female,Thrissur,25-02-2026,Home Decor,35469,Net Banking,4
+C086,Sam,35,Female,Malappuram,25-02-2026,Groceries,5879,Cash,4
+C087,Rohan,54,Female,Trivandrum,01-02-2026,Electronics,32594,Cash,2
+C088,Vivek,40,Female,Trivandrum,04-03-2026,Fashion,39269,Cash,5
+C089,Akash,30,Male,Calicut,02-01-2026,Sports,26835,Net Banking,5
+C090,Anu,48,Female,Kannur,08-04-2026,Home Decor,1330,UPI,3
+C091,Amit,33,Female,Kollam,29-01-2026,Books,24384,Net Banking,5
+C092,Sneha,45,Female,Trivandrum,09-03-2026,Sports,29936,Cash,3
+C093,Anu,25,Male,Trivandrum,02-02-2026,Electronics,48885,Card,2
+C094,Pooja,35,Female,Kochi,28-01-2026,Home Decor,12921,Cash,2
+C095,Asha,37,Male,Kollam,16-02-2026,Books,8495,Cash,1
+C096,Neha,36,Male,Kollam,07-01-2026,Home Decor,49534,Net Banking,1
+C097,Rahul,54,Female,Kannur,22-04-2026,Beauty,29066,Cash,2
+C098,David,48,Male,Malappuram,07-01-2026,Electronics,26460,Net Banking,1
+C099,Priya,27,Male,Malappuram,15-03-2026,Books,20112,UPI,2
+C100,Neha,44,Male,Malappuram,16-01-2026,Books,25128,Net Banking,4
+C101,Sam,45,Female,Thrissur,08-02-2026,Books,4147,UPI,2
+C102,Vivek,34,Male,Calicut,22-03-2026,Groceries,11591,UPI,2
+C103,Divya,46,Female,Trivandrum,01-01-2026,Electronics,15370,Cash,3
+C104,Rohan,22,Male,Trivandrum,31-03-2026,Home Decor,41163,Card,4
+C105,Neha,32,Male,Trivandrum,15-01-2026,Home Decor,9521,UPI,1
+C106,Nisha,56,Female,Kannur,22-01-2026,Electronics,30916,Cash,4
+C107,David,50,Female,Kannur,01-05-2026,Electronics,39392,UPI,4
+C108,Kiran,56,Female,Kochi,05-04-2026,Electronics,15202,UPI,3
+C109,Priya,29,Female,Thrissur,15-03-2026,Sports,29181,Cash,2
+C110,Divya,58,Female,Kochi,16-03-2026,Beauty,23003,Net Banking,3
+C111,Meera,28,Female,Kannur,11-02-2026,Sports,32671,Cash,4
+C112,Neha,20,Female,Kochi,15-04-2026,Fashion,16741,Cash,1
+C113,Amit,50,Male,Kollam,09-04-2026,Home Decor,35759,Net Banking,4
+C114,Vivek,51,Female,Thrissur,07-01-2026,Home Decor,32869,Net Banking,1
+C115,David,53,Male,Trivandrum,27-01-2026,Beauty,45960,Net Banking,1
+C116,Riya,33,Male,Trivandrum,04-01-2026,Books,1096,Net Banking,1
+C117,Meera,47,Male,Kollam,29-01-2026,Home Decor,10290,Net Banking,3
+C118,David,44,Female,Kannur,07-03-2026,Groceries,30135,Card,4
+C119,Riya,50,Male,Malappuram,25-01-2026,Electronics,18304,Net Banking,3
+C120,Akash,35,Male,Trivandrum,30-04-2026,Sports,19766,Net Banking,2
+C121,Neha,48,Female,Trivandrum,27-02-2026,Books,35814,Net Banking,4
+C122,Kiran,30,Male,Thrissur,30-04-2026,Beauty,15506,Net Banking,1
+C123,Pooja,42,Female,Kollam,10-02-2026,Home Decor,42930,Card,4
+C124,John,50,Female,Malappuram,05-01-2026,Electronics,29055,UPI,5
+C125,Rohan,18,Male,Kannur,27-04-2026,Home Decor,43111,Card,1
+C126,David,39,Female,Kollam,02-03-2026,Electronics,21732,Net Banking,3
+C127,Pooja,52,Male,Thrissur,22-03-2026,Electronics,15585,Cash,2
+C128,Arjun,45,Male,Malappuram,06-04-2026,Sports,46330,UPI,4
+C129,Nisha,19,Male,Trivandrum,22-01-2026,Home Decor,3877,Cash,3
+C130,Divya,27,Male,Thrissur,17-02-2026,Beauty,37288,Card,2
+C131,Arjun,57,Female,Thrissur,23-01-2026,Sports,15983,Net Banking,5
+C132,Anu,47,Female,Kannur,19-01-2026,Fashion,43902,UPI,4
+C133,Nisha,52,Male,Kochi,26-04-2026,Beauty,22846,Cash,4
+C134,David,47,Female,Calicut,30-03-2026,Beauty,31867,UPI,2
+C135,Sam,40,Female,Kollam,18-02-2026,Fashion,1637,Net Banking,3
+C136,Sam,21,Female,Malappuram,02-01-2026,Fashion,15281,Cash,2
+C137,Vivek,57,Female,Kollam,23-03-2026,Home Decor,47446,Card,1
+C138,Priya,37,Female,Kochi,26-04-2026,Books,24111,Card,1
+C139,Nisha,38,Female,Calicut,27-04-2026,Groceries,8861,Cash,5
+C140,David,28,Female,Malappuram,06-03-2026,Beauty,19542,Cash,1
+C141,Arjun,27,Male,Malappuram,01-03-2026,Sports,47662,Net Banking,5
+C142,Arjun,43,Male,Trivandrum,16-02-2026,Books,8299,Net Banking,3
+C143,David,55,Female,Malappuram,28-03-2026,Sports,24544,UPI,2
+C144,Rahul,57,Female,Thrissur,02-03-2026,Groceries,42644,UPI,4
+C145,Nisha,59,Female,Kochi,27-04-2026,Groceries,3171,UPI,3
+C146,Meera,24,Male,Thrissur,05-03-2026,Groceries,25670,Net Banking,3
+C147,Neha,44,Male,Kannur,27-03-2026,Sports,6689,Net Banking,5
+C148,David,20,Female,Calicut,22-02-2026,Beauty,29343,Card,3
+C149,Sneha,52,Female,Kochi,13-01-2026,Beauty,18280,Card,1
+C150,Rohan,23,Male,Kollam,19-04-2026,Sports,39334,UPI,1
+C151,Kiran,33,Male,Malappuram,11-04-2026,Books,13648,UPI,5
+C152,Sam,31,Male,Trivandrum,27-01-2026,Home Decor,9870,UPI,3
+C153,John,26,Female,Malappuram,20-04-2026,Groceries,7404,UPI,2
+C154,Sneha,33,Female,Kochi,02-01-2026,Groceries,17591,UPI,2
+C155,Divya,51,Male,Kollam,05-04-2026,Electronics,31411,Net Banking,3
+C156,Sam,24,Female,Thrissur,07-03-2026,Groceries,40511,UPI,5
+C157,Rohan,59,Male,Kochi,08-02-2026,Beauty,26520,Net Banking,1
+C158,Rohan,22,Male,Trivandrum,04-03-2026,Books,9921,UPI,2
+C159,Riya,58,Female,Kannur,05-02-2026,Books,34970,Cash,4
+C160,Riya,45,Male,Malappuram,06-03-2026,Sports,7698,Card,4
+C161,Anu,44,Female,Malappuram,27-02-2026,Beauty,26331,Net Banking,1
+C162,Divya,38,Female,Trivandrum,10-02-2026,Groceries,45211,Net Banking,1
+C163,Arjun,23,Female,Kochi,12-01-2026,Sports,48617,Cash,2
+C164,Priya,55,Female,Kollam,13-03-2026,Electronics,27122,Cash,4
+C165,Priya,36,Female,Trivandrum,22-04-2026,Electronics,38074,Card,2
+C166,Pooja,32,Male,Trivandrum,26-03-2026,Home Decor,36655,Cash,1
+C167,David,54,Male,Malappuram,08-04-2026,Beauty,36963,UPI,5
+C168,David,19,Male,Trivandrum,29-04-2026,Sports,20449,Cash,3
+C169,Asha,27,Female,Kochi,01-01-2026,Groceries,48760,UPI,1
+C170,Akash,31,Female,Kannur,06-04-2026,Beauty,22540,Card,3
+C171,Kiran,54,Male,Kochi,09-02-2026,Groceries,10516,UPI,1
+C172,Rohan,60,Female,Kannur,04-02-2026,Books,29169,Net Banking,3
+C173,Akash,25,Female,Kannur,28-01-2026,Electronics,18762,Net Banking,5
+C174,Nisha,20,Male,Kannur,27-03-2026,Books,3790,UPI,2
+C175,Vivek,26,Female,Trivandrum,08-02-2026,Fashion,8063,UPI,4
+C176,Divya,29,Male,Kannur,06-04-2026,Books,46315,Card,5
+C177,Sneha,22,Female,Malappuram,13-03-2026,Sports,2972,Net Banking,1
+C178,Arjun,38,Female,Thrissur,28-02-2026,Beauty,46697,Net Banking,3
+C179,Amit,19,Female,Calicut,15-01-2026,Home Decor,40709,Net Banking,3
+C180,Divya,24,Male,Kannur,12-01-2026,Books,26443,UPI,4
+C181,Nisha,39,Male,Trivandrum,22-04-2026,Home Decor,11218,UPI,5
+C182,Meera,51,Male,Malappuram,23-03-2026,Fashion,23209,Card,2
+C183,John,34,Male,Calicut,14-01-2026,Books,10218,UPI,2
+C184,Pooja,47,Female,Kollam,09-04-2026,Books,42339,Cash,3
+C185,Rohan,22,Female,Kannur,20-01-2026,Sports,20045,Cash,5
+C186,Sneha,50,Male,Trivandrum,08-01-2026,Beauty,29816,UPI,1
+C187,Nisha,22,Male,Thrissur,17-02-2026,Books,33431,Net Banking,4
+C188,Neha,20,Female,Malappuram,16-03-2026,Books,42918,Card,3
+C189,Pooja,50,Male,Kochi,19-03-2026,Beauty,6983,Cash,1
+C190,Asha,20,Male,Kollam,06-03-2026,Beauty,28997,Card,3
+C191,Nisha,42,Female,Malappuram,17-02-2026,Fashion,44692,UPI,3
+C192,Kiran,24,Female,Trivandrum,09-01-2026,Fashion,47630,Card,3
+C193,Sam,60,Male,Trivandrum,11-01-2026,Fashion,43195,Net Banking,2
+C194,Arjun,37,Female,Kollam,18-03-2026,Home Decor,21727,Card,5
+C195,Divya,50,Female,Kochi,12-01-2026,Fashion,20441,Card,2
+C196,Pooja,30,Male,Calicut,13-02-2026,Groceries,5257,Cash,1
+C197,Neha,51,Male,Kollam,06-03-2026,Fashion,40703,Card,5
+C198,John,28,Male,Malappuram,18-02-2026,Sports,41142,Card,4
+C199,Divya,41,Male,Kannur,06-01-2026,Books,18873,Net Banking,2
+C200,Anu,37,Female,Malappuram,10-03-2026,Groceries,24306,Net Banking,4
+C201,Nisha,42,Female,Calicut,09-04-2026,Home Decor,13287,Card,3
+C202,Pooja,41,Male,Kollam,07-01-2026,Home Decor,34010,UPI,3
+C203,Asha,35,Female,Thrissur,11-01-2026,Groceries,28870,UPI,2
+C204,Rohan,40,Male,Kannur,15-04-2026,Electronics,26182,Cash,2
+C205,Arjun,41,Male,Kochi,19-02-2026,Fashion,6693,Cash,2
+C206,Priya,36,Female,Kollam,18-01-2026,Home Decor,9295,Net Banking,4
+C207,Rahul,23,Male,Trivandrum,20-03-2026,Groceries,9998,Net Banking,1
+C208,Nisha,33,Female,Kochi,10-04-2026,Electronics,15826,Net Banking,5
+C209,Arjun,25,Female,Thrissur,28-02-2026,Books,1277,Card,2
+C210,Divya,18,Female,Calicut,07-02-2026,Books,27500,Card,1
+C211,Sneha,22,Male,Kannur,09-03-2026,Home Decor,31010,UPI,4
+C212,David,19,Female,Malappuram,17-02-2026,Electronics,22796,Card,1
+C213,Sam,39,Male,Kochi,09-04-2026,Fashion,35983,Cash,2
+C214,Rohan,48,Male,Malappuram,17-04-2026,Groceries,4335,Net Banking,1
+C215,Vivek,20,Male,Kochi,07-02-2026,Fashion,20521,Net Banking,5
+C216,David,20,Male,Trivandrum,02-03-2026,Fashion,3332,Cash,3
+C217,Sneha,45,Female,Kollam,16-01-2026,Beauty,25539,Cash,2
+C218,Pooja,41,Female,Malappuram,05-03-2026,Electronics,47850,Net Banking,1
+C219,Riya,29,Female,Trivandrum,25-02-2026,Electronics,5447,Cash,3
+C220,Rohan,56,Female,Calicut,09-02-2026,Sports,29291,Cash,4
+C221,Sneha,57,Female,Trivandrum,06-01-2026,Sports,3959,UPI,4
+C222,Akash,28,Male,Calicut,16-02-2026,Home Decor,40017,Net Banking,1
+C223,Arjun,33,Female,Trivandrum,17-01-2026,Beauty,37374,UPI,5
+C224,Rohan,41,Female,Kannur,20-01-2026,Home Decor,5238,Card,5
+C225,Amit,38,Female,Calicut,16-02-2026,Electronics,1898,Card,4
+C226,Amit,53,Male,Trivandrum,08-03-2026,Home Decor,17258,Net Banking,2
+C227,Nisha,49,Male,Kochi,20-03-2026,Groceries,5053,Net Banking,2
+C228,Rohan,23,Female,Kollam,26-04-2026,Fashion,46700,UPI,5
+C229,Nisha,37,Male,Kollam,11-03-2026,Sports,46089,Card,3
+C230,Anu,25,Male,Malappuram,07-03-2026,Groceries,15714,Net Banking,1
+C231,Neha,54,Female,Kannur,16-02-2026,Home Decor,36352,Card,5
+C232,Arjun,22,Female,Kannur,24-04-2026,Sports,47311,Net Banking,5
+C233,Divya,54,Male,Calicut,22-02-2026,Fashion,42296,UPI,4
+C234,Akash,40,Male,Malappuram,01-03-2026,Home Decor,36330,Card,2
+C235,Akash,21,Male,Thrissur,25-02-2026,Groceries,20131,Card,2
+C236,Anu,40,Female,Malappuram,11-02-2026,Electronics,16623,Card,5
+C237,John,58,Female,Thrissur,05-02-2026,Books,6322,Card,5
+C238,Sam,27,Male,Kollam,01-05-2026,Books,47427,Cash,5
+C239,Rahul,23,Male,Kollam,06-01-2026,Home Decor,37999,Cash,2
+C240,Sam,44,Male,Kannur,09-04-2026,Sports,35954,Cash,3
+C241,Anu,43,Female,Kannur,03-03-2026,Electronics,45328,UPI,2
+C242,Divya,48,Female,Calicut,26-02-2026,Fashion,39958,Card,3
+C243,Kiran,40,Female,Calicut,21-04-2026,Home Decor,24483,UPI,3
+C244,Rohan,25,Female,Kannur,31-01-2026,Groceries,9432,UPI,1
+C245,Amit,57,Female,Calicut,07-02-2026,Home Decor,10666,Cash,5
+C246,Kiran,30,Male,Kannur,03-04-2026,Books,30793,Net Banking,3
+C247,Rahul,23,Female,Thrissur,05-03-2026,Beauty,15976,Card,5
+C248,Priya,21,Female,Kannur,15-02-2026,Books,43077,Net Banking,3
+C249,Rahul,24,Female,Calicut,10-03-2026,Fashion,47877,Cash,4
+C250,Priya,43,Male,Thrissur,16-02-2026,Books,12956,Cash,5
+C251,Arjun,42,Female,Malappuram,06-02-2026,Books,18531,UPI,2
+C252,Amit,41,Female,Thrissur,13-01-2026,Fashion,49677,Card,2
+C253,Akash,43,Male,Kochi,19-03-2026,Electronics,9180,Cash,4
+C254,Rohan,27,Male,Trivandrum,08-03-2026,Books,21075,Card,4
+C255,Nisha,55,Female,Thrissur,20-03-2026,Home Decor,33604,Net Banking,5
+C256,Pooja,19,Female,Trivandrum,08-02-2026,Sports,7383,Net Banking,5
+C257,Rahul,56,Female,Trivandrum,09-02-2026,Sports,38110,Card,1
+C258,Pooja,28,Female,Calicut,16-03-2026,Home Decor,44812,Card,1
+C259,Meera,30,Male,Kannur,15-03-2026,Fashion,27645,Card,4
+C260,Vivek,44,Female,Malappuram,30-03-2026,Home Decor,48423,UPI,2
+C261,Vivek,53,Female,Kollam,08-03-2026,Beauty,34637,Net Banking,3
+C262,Rohan,52,Female,Thrissur,23-01-2026,Fashion,44493,Cash,5
+C263,Vivek,33,Female,Thrissur,03-03-2026,Fashion,14936,Cash,3
+C264,Vivek,49,Female,Kannur,01-04-2026,Fashion,36932,Cash,3
+C265,Sam,52,Female,Kannur,16-01-2026,Home Decor,22818,Card,3
+C266,Nisha,23,Female,Kannur,06-01-2026,Sports,17006,Net Banking,2
+C267,Neha,35,Female,Calicut,26-01-2026,Electronics,40549,Card,2
+C268,Akash,32,Male,Kochi,07-01-2026,Electronics,27286,Cash,4
+C269,John,18,Male,Kannur,13-01-2026,Sports,31375,Net Banking,2
+C270,Nisha,38,Female,Kollam,07-04-2026,Electronics,6062,Card,5
+C271,Priya,29,Female,Malappuram,05-04-2026,Groceries,2581,Net Banking,4
+C272,Nisha,20,Male,Trivandrum,24-01-2026,Books,39703,UPI,3
+C273,Rohan,59,Female,Calicut,06-02-2026,Home Decor,33244,Net Banking,3
+C274,Meera,39,Male,Kollam,25-01-2026,Beauty,42686,Cash,2
+C275,Kiran,36,Male,Calicut,02-01-2026,Books,42059,Net Banking,4
+C276,Kiran,23,Female,Kollam,07-03-2026,Electronics,12309,Card,4
+C277,Anu,18,Female,Kannur,11-02-2026,Groceries,29477,Cash,3
+C278,Sam,54,Male,Trivandrum,08-02-2026,Sports,23763,Card,1
+C279,Meera,47,Female,Calicut,27-03-2026,Beauty,45162,Cash,1
+C280,Nisha,41,Male,Calicut,23-03-2026,Groceries,31538,Card,4
+C281,Riya,41,Female,Kollam,06-04-2026,Books,31056,Card,2
+C282,Riya,23,Female,Thrissur,29-03-2026,Sports,23909,UPI,5
+C283,Priya,53,Male,Thrissur,15-01-2026,Books,10020,Card,3
+C284,Akash,46,Male,Kollam,20-04-2026,Groceries,47183,Net Banking,1
+C285,Akash,46,Male,Kannur,26-04-2026,Groceries,33836,Net Banking,4
+C286,Priya,53,Female,Kollam,14-03-2026,Home Decor,20396,UPI,4
+C287,Rahul,31,Male,Kochi,02-02-2026,Beauty,22779,UPI,5
+C288,Arjun,48,Male,Trivandrum,08-01-2026,Beauty,11995,Card,4
+C289,Amit,46,Female,Kannur,17-02-2026,Electronics,44943,Card,3
+C290,Asha,52,Female,Thrissur,16-01-2026,Groceries,47900,Card,1
+C291,Rahul,37,Female,Kollam,07-04-2026,Sports,35880,Net Banking,5
+C292,Anu,33,Female,Trivandrum,18-02-2026,Groceries,18264,Card,1
+C293,Divya,57,Male,Calicut,05-01-2026,Groceries,4609,UPI,5
+C294,Rohan,56,Male,Calicut,05-01-2026,Sports,3099,Net Banking,4
+C295,Neha,31,Male,Calicut,30-01-2026,Books,19157,Card,5
+C296,Sam,56,Female,Calicut,10-02-2026,Fashion,9588,Card,4
+C297,David,21,Male,Kollam,08-02-2026,Sports,28197,Net Banking,1
+C298,Amit,51,Female,Kollam,14-02-2026,Beauty,26955,Card,3
+C299,Asha,52,Female,Calicut,18-02-2026,Home Decor,14968,Cash,2
+C300,Rohan,21,Female,Kannur,14-04-2026,Books,34933,Card,4
+C301,David,31,Female,Kollam,01-02-2026,Electronics,29677,Cash,1
+C302,Vivek,21,Female,Kannur,10-03-2026,Sports,39847,UPI,1
+C303,Sam,60,Male,Kannur,25-01-2026,Groceries,22021,Cash,1
+C304,Vivek,25,Female,Calicut,28-01-2026,Sports,39810,Card,4
+C305,Anu,53,Female,Malappuram,28-04-2026,Fashion,25147,Net Banking,5
+C306,Sneha,37,Female,Trivandrum,25-03-2026,Books,32789,Net Banking,1
+C307,Pooja,38,Male,Trivandrum,13-04-2026,Fashion,27327,UPI,5
+C308,Anu,27,Male,Trivandrum,21-04-2026,Books,38475,Net Banking,3
+C309,Vivek,39,Male,Kannur,20-01-2026,Books,16304,Net Banking,5
+C310,Kiran,34,Female,Kollam,25-03-2026,Sports,48670,Net Banking,4
+C311,Sneha,28,Male,Kollam,22-01-2026,Books,32202,Card,5
+C312,Priya,51,Male,Malappuram,24-03-2026,Home Decor,5071,UPI,1
+C313,John,58,Male,Kochi,22-02-2026,Sports,10097,UPI,2
+C314,Rohan,41,Male,Thrissur,06-03-2026,Sports,43896,Net Banking,4
+C315,Rahul,52,Female,Kochi,03-01-2026,Electronics,34895,Cash,5
+C316,Rahul,50,Female,Malappuram,06-02-2026,Groceries,7213,UPI,5
+C317,Anu,30,Female,Malappuram,20-01-2026,Fashion,17719,Net Banking,1
+C318,Amit,47,Male,Kollam,17-02-2026,Groceries,19859,UPI,1
+C319,Amit,42,Female,Thrissur,12-01-2026,Beauty,3877,UPI,2
+C320,Pooja,45,Female,Thrissur,11-01-2026,Home Decor,6449,UPI,2
+C321,Sam,48,Female,Kochi,28-01-2026,Electronics,45054,Cash,5
+C322,Priya,29,Female,Kochi,14-03-2026,Groceries,38671,Card,4
+C323,Arjun,37,Male,Thrissur,29-04-2026,Groceries,37338,Net Banking,5
+C324,Amit,26,Male,Thrissur,12-02-2026,Sports,22866,UPI,1
+C325,Anu,22,Female,Thrissur,25-02-2026,Home Decor,40430,Net Banking,3
+C326,David,46,Female,Calicut,04-01-2026,Fashion,36443,Net Banking,4
+C327,Sam,60,Female,Kochi,24-01-2026,Home Decor,40741,Cash,2
+C328,Arjun,23,Female,Calicut,02-04-2026,Beauty,46840,Card,4
+C329,Sneha,24,Male,Kochi,10-02-2026,Fashion,29346,Cash,3
+C330,John,23,Male,Kannur,14-01-2026,Beauty,36702,Net Banking,1
+C331,Arjun,40,Male,Thrissur,04-01-2026,Books,21461,Net Banking,1
+C332,Divya,42,Male,Kollam,07-02-2026,Books,16108,Card,4
+C333,John,35,Female,Trivandrum,22-01-2026,Beauty,9763,UPI,2
+C334,David,44,Female,Kannur,25-02-2026,Home Decor,5241,Cash,3
+C335,Anu,58,Female,Thrissur,01-05-2026,Books,13015,Net Banking,1
+C336,Nisha,18,Female,Trivandrum,18-01-2026,Home Decor,40844,Net Banking,3
+C337,Kiran,45,Male,Trivandrum,26-02-2026,Fashion,39732,Card,4
+C338,Asha,43,Female,Trivandrum,10-02-2026,Sports,45744,Net Banking,5
+C339,Anu,38,Female,Trivandrum,11-04-2026,Home Decor,25951,Cash,1
+C340,Sam,30,Male,Kollam,30-04-2026,Home Decor,36251,UPI,4
+C341,Vivek,46,Female,Malappuram,01-05-2026,Sports,4732,Net Banking,4
+C342,Nisha,33,Female,Kollam,18-01-2026,Groceries,47073,Net Banking,4
+C343,Rohan,56,Female,Thrissur,10-01-2026,Beauty,35220,Net Banking,5
+C344,Sneha,52,Male,Kochi,05-01-2026,Home Decor,16468,Cash,2
+C345,Riya,20,Female,Malappuram,24-03-2026,Fashion,28410,UPI,1
+C346,David,32,Male,Kannur,13-01-2026,Fashion,25833,Net Banking,5
+C347,Akash,27,Female,Kochi,30-03-2026,Beauty,7051,Cash,4
+C348,Arjun,25,Male,Trivandrum,28-04-2026,Fashion,22683,Net Banking,2
+C349,Pooja,40,Female,Kochi,08-03-2026,Beauty,47516,Net Banking,3
+C350,Nisha,20,Male,Kochi,09-01-2026,Home Decor,22683,UPI,2
+C351,Anu,51,Male,Thrissur,30-04-2026,Groceries,21891,Net Banking,4
+C352,Amit,58,Male,Calicut,30-01-2026,Sports,43277,Net Banking,4
+C353,Riya,30,Female,Thrissur,04-01-2026,Beauty,25682,UPI,2
+C354,David,22,Male,Malappuram,27-01-2026,Home Decor,35385,Card,3
+C355,Vivek,47,Male,Trivandrum,11-02-2026,Sports,32278,Cash,5
+C356,Riya,43,Male,Trivandrum,19-02-2026,Fashion,30206,Card,3
+C357,Riya,55,Male,Kollam,28-04-2026,Groceries,20724,UPI,2
+C358,Meera,29,Female,Kollam,09-02-2026,Groceries,33677,Net Banking,4
+C359,John,54,Female,Kannur,18-03-2026,Groceries,32094,Card,5
+C360,Pooja,36,Male,Calicut,22-01-2026,Fashion,29756,UPI,3
+C361,Pooja,26,Male,Malappuram,02-01-2026,Beauty,37003,Net Banking,4
+C362,Pooja,44,Female,Kannur,29-03-2026,Groceries,5617,UPI,2
+C363,Priya,35,Male,Thrissur,07-02-2026,Fashion,11223,Net Banking,5
+C364,Pooja,53,Male,Thrissur,06-04-2026,Electronics,17756,Cash,5
+C365,Priya,46,Male,Kannur,16-04-2026,Electronics,48433,Card,3
+C366,Priya,46,Female,Trivandrum,22-04-2026,Home Decor,5900,Net Banking,1
+C367,Anu,31,Female,Malappuram,10-04-2026,Sports,40194,Net Banking,2
+C368,John,31,Male,Malappuram,20-03-2026,Electronics,37560,Cash,5
+C369,Riya,52,Male,Trivandrum,05-02-2026,Sports,19378,Cash,5
+C370,Akash,24,Male,Malappuram,04-02-2026,Home Decor,27174,UPI,3
+C371,John,26,Male,Calicut,21-04-2026,Sports,21308,Card,4
+C372,John,54,Female,Kollam,04-03-2026,Beauty,24787,Net Banking,1
+C373,Arjun,43,Female,Kollam,23-03-2026,Fashion,29998,Net Banking,3
+C374,Rahul,23,Female,Kollam,16-03-2026,Sports,45897,Cash,1
+C375,Neha,43,Male,Kannur,12-04-2026,Home Decor,14083,Net Banking,3
+C376,Nisha,39,Male,Thrissur,11-02-2026,Home Decor,32007,Cash,1
+C377,Meera,58,Female,Kochi,06-01-2026,Electronics,10553,Net Banking,4
+C378,Divya,30,Male,Kollam,01-01-2026,Fashion,10618,Cash,1
+C379,Sneha,34,Male,Trivandrum,25-03-2026,Sports,42727,Card,1
+C380,Nisha,32,Female,Kollam,20-02-2026,Electronics,46317,UPI,1
+C381,Pooja,22,Male,Thrissur,28-01-2026,Groceries,34242,Net Banking,1
+C382,Kiran,25,Female,Kollam,02-01-2026,Groceries,31506,UPI,2
+C383,Arjun,24,Male,Trivandrum,19-02-2026,Fashion,19811,Card,4
+C384,John,59,Male,Kochi,10-04-2026,Books,37115,UPI,5
+C385,Asha,46,Female,Kollam,25-03-2026,Groceries,41361,Card,4
+C386,Rohan,31,Male,Kochi,20-03-2026,Groceries,49512,UPI,5
+C387,Amit,40,Female,Trivandrum,04-04-2026,Home Decor,9363,Card,3
+C388,Arjun,33,Female,Malappuram,24-03-2026,Sports,1957,Cash,2
+C389,Riya,50,Male,Kollam,08-03-2026,Beauty,19568,UPI,2
+C390,Amit,25,Male,Kannur,05-03-2026,Sports,39123,UPI,5
+C391,Rahul,41,Female,Calicut,24-04-2026,Beauty,37449,Net Banking,3
+C392,Asha,48,Male,Kochi,11-03-2026,Books,4625,UPI,3
+C393,Priya,21,Female,Thrissur,28-01-2026,Fashion,41394,Net Banking,4
+C394,Amit,23,Male,Trivandrum,31-03-2026,Electronics,20510,UPI,5
+C395,Vivek,27,Female,Kannur,28-04-2026,Books,41769,UPI,3
+C396,Divya,33,Male,Calicut,31-03-2026,Electronics,28674,UPI,4
+C397,Riya,21,Female,Kollam,20-03-2026,Sports,43326,Card,1
+C398,John,18,Male,Kannur,02-01-2026,Fashion,34475,Cash,2
+C399,John,35,Male,Malappuram,17-02-2026,Electronics,22155,Net Banking,3
+C400,Arjun,34,Male,Kannur,09-03-2026,Beauty,33674,Cash,1
+C401,Sam,28,Female,Calicut,05-03-2026,Fashion,6943,UPI,2
+C402,Akash,18,Male,Malappuram,05-04-2026,Home Decor,1005,Card,1
+C403,Sneha,42,Male,Calicut,02-03-2026,Home Decor,2517,Net Banking,2
+C404,Anu,44,Female,Trivandrum,11-02-2026,Home Decor,5304,Cash,1
+C405,Priya,29,Male,Malappuram,06-03-2026,Books,3209,Net Banking,1
+C406,Rohan,36,Female,Trivandrum,23-04-2026,Electronics,36447,Net Banking,1
+C407,Vivek,36,Female,Kollam,17-02-2026,Books,16097,Net Banking,3
+C408,Pooja,30,Male,Calicut,17-03-2026,Electronics,27072,UPI,2
+C409,Sneha,58,Male,Trivandrum,11-03-2026,Electronics,49937,Net Banking,3
+C410,Vivek,51,Male,Kannur,14-01-2026,Beauty,4125,Card,3
+C411,Priya,32,Female,Kollam,12-01-2026,Fashion,30245,UPI,5
+C412,Akash,26,Female,Kochi,13-01-2026,Books,37412,UPI,4
+C413,John,33,Female,Trivandrum,26-03-2026,Home Decor,20844,Net Banking,3
+C414,Rohan,35,Male,Kochi,10-02-2026,Groceries,9120,UPI,2
+C415,Asha,46,Female,Trivandrum,14-01-2026,Beauty,8112,Cash,2
+C416,Nisha,47,Female,Malappuram,27-02-2026,Electronics,6125,Card,3
+C417,Riya,20,Male,Malappuram,16-04-2026,Home Decor,21682,Card,1
+C418,Anu,40,Female,Thrissur,02-04-2026,Electronics,44579,Cash,3
+C419,Asha,19,Female,Malappuram,15-04-2026,Beauty,36634,Card,1
+C420,Meera,26,Male,Kochi,01-03-2026,Electronics,14767,Card,2
+C421,Amit,41,Male,Thrissur,16-04-2026,Books,17162,UPI,1
+C422,Vivek,59,Female,Malappuram,09-01-2026,Groceries,6227,Cash,1
+C423,Rohan,21,Male,Thrissur,06-01-2026,Beauty,47676,Net Banking,4
+C424,Amit,45,Male,Trivandrum,04-01-2026,Groceries,12465,Cash,3
+C425,John,20,Male,Kollam,27-02-2026,Fashion,32895,Net Banking,5
+C426,Priya,23,Female,Kannur,03-03-2026,Groceries,27674,Card,5
+C427,Neha,19,Female,Malappuram,01-02-2026,Sports,23734,Net Banking,5
+C428,Pooja,40,Female,Kannur,11-04-2026,Fashion,11984,UPI,3
+C429,Anu,19,Female,Kochi,18-03-2026,Home Decor,31112,Cash,5
+C430,Asha,24,Male,Kollam,30-01-2026,Groceries,17667,UPI,2
+C431,Amit,40,Male,Calicut,15-03-2026,Groceries,39031,Cash,3
+C432,Sam,19,Female,Thrissur,27-04-2026,Books,9512,Card,4
+C433,Nisha,29,Female,Kochi,11-03-2026,Electronics,3881,Card,5
+C434,Rahul,51,Female,Kochi,29-01-2026,Fashion,40447,Card,2
+C435,Asha,38,Male,Kochi,13-02-2026,Groceries,38644,Card,1
+C436,Akash,41,Male,Trivandrum,19-04-2026,Sports,43593,Net Banking,5
+C437,Kiran,37,Female,Calicut,13-01-2026,Groceries,48195,Net Banking,4
+C438,Kiran,29,Female,Calicut,25-03-2026,Sports,38797,Card,4
+C439,Nisha,26,Male,Kollam,09-02-2026,Electronics,46206,Net Banking,5
+C440,Asha,56,Female,Malappuram,05-01-2026,Books,14676,UPI,4
+C441,Kiran,22,Male,Trivandrum,19-01-2026,Fashion,11202,UPI,3
+C442,Rahul,34,Male,Calicut,27-02-2026,Sports,4642,Cash,3
+C443,Meera,18,Male,Kannur,11-04-2026,Beauty,48210,Net Banking,2
+C444,Divya,49,Female,Trivandrum,24-04-2026,Books,24798,UPI,4
+C445,Sam,59,Male,Calicut,11-04-2026,Beauty,5030,UPI,3
+C446,Kiran,34,Male,Kochi,03-01-2026,Fashion,11348,Net Banking,2
+C447,Arjun,53,Male,Trivandrum,04-04-2026,Books,40415,Net Banking,1
+C448,Asha,56,Female,Calicut,25-02-2026,Electronics,6836,Cash,2
+C449,Divya,53,Female,Kollam,25-01-2026,Fashion,19690,Card,1
+C450,Amit,54,Female,Calicut,07-01-2026,Electronics,23847,UPI,4
+C451,Nisha,60,Female,Calicut,12-01-2026,Electronics,1886,Card,2
+C452,Nisha,23,Female,Malappuram,23-03-2026,Electronics,20408,Net Banking,4
+C453,David,23,Female,Calicut,04-03-2026,Fashion,25198,Cash,2
+C454,Priya,34,Female,Kannur,27-02-2026,Fashion,15027,Cash,5
+C455,John,60,Male,Kochi,08-01-2026,Sports,22730,Net Banking,5
+C456,Neha,21,Female,Malappuram,30-01-2026,Books,27635,Net Banking,5
+C457,Anu,48,Female,Kochi,23-04-2026,Beauty,47012,UPI,5
+C458,Akash,54,Male,Kochi,15-03-2026,Home Decor,29628,Card,2
+C459,Vivek,26,Male,Kannur,28-01-2026,Electronics,44969,Net Banking,2
+C460,John,56,Female,Trivandrum,16-04-2026,Sports,4591,UPI,4
+C461,Amit,53,Female,Malappuram,13-03-2026,Fashion,34258,Net Banking,1
+C462,Riya,55,Female,Kochi,11-04-2026,Beauty,10006,Card,5
+C463,Sam,24,Male,Thrissur,17-03-2026,Home Decor,6818,Cash,5
+C464,Sneha,44,Female,Kannur,23-04-2026,Sports,32023,Net Banking,1
+C465,David,43,Male,Thrissur,23-01-2026,Books,44817,Net Banking,1
+C466,Kiran,33,Male,Kollam,20-02-2026,Beauty,17801,Cash,1
+C467,Nisha,37,Female,Malappuram,13-02-2026,Beauty,45825,UPI,2
+C468,Nisha,46,Female,Trivandrum,18-01-2026,Sports,27513,UPI,2
+C469,Vivek,44,Female,Malappuram,26-02-2026,Books,24704,UPI,5
+C470,Asha,22,Female,Kollam,12-04-2026,Books,26636,Card,5
+C471,Sam,19,Male,Calicut,23-04-2026,Home Decor,13354,UPI,2
+C472,Rohan,21,Female,Kollam,05-01-2026,Groceries,18155,Cash,4
+C473,Amit,58,Male,Kollam,06-03-2026,Electronics,16055,Cash,4
+C474,Rohan,29,Female,Thrissur,18-03-2026,Books,23121,Cash,2
+C475,David,23,Female,Kochi,18-04-2026,Beauty,3453,Card,5
+C476,Vivek,32,Male,Kollam,10-04-2026,Groceries,17834,Net Banking,5
+C477,Rahul,48,Male,Kollam,03-01-2026,Groceries,39596,UPI,2
+C478,Riya,37,Female,Kannur,02-02-2026,Beauty,23053,Net Banking,3
+C479,Rohan,37,Female,Thrissur,28-01-2026,Electronics,681,Cash,5
+C480,Riya,56,Female,Trivandrum,24-03-2026,Sports,7284,Net Banking,1
+C481,David,58,Female,Malappuram,13-02-2026,Fashion,17314,Cash,2
+C482,Akash,33,Male,Malappuram,20-01-2026,Home Decor,39523,Net Banking,3
+C483,John,19,Female,Trivandrum,29-03-2026,Fashion,27631,Net Banking,4
+C484,Priya,55,Male,Trivandrum,05-04-2026,Sports,46951,Card,5
+C485,Pooja,60,Female,Thrissur,23-03-2026,Fashion,11340,Card,3
+C486,Pooja,26,Female,Kollam,13-01-2026,Home Decor,36836,Card,3
+C487,Arjun,32,Female,Calicut,25-03-2026,Sports,20325,Net Banking,3
+C488,David,55,Female,Kannur,17-02-2026,Home Decor,7918,Net Banking,1
+C489,Sam,55,Male,Kannur,21-04-2026,Groceries,32999,UPI,4
+C490,Nisha,44,Male,Malappuram,09-03-2026,Home Decor,10081,Card,2
+C491,Divya,54,Female,Calicut,13-02-2026,Fashion,47102,Card,1
+C492,Kiran,58,Male,Trivandrum,04-03-2026,Sports,4001,UPI,4
+C493,Vivek,28,Male,Kannur,05-02-2026,Home Decor,5969,Card,5
+C494,Divya,43,Female,Kannur,25-02-2026,Beauty,505,UPI,5
+C495,Sneha,18,Female,Malappuram,26-01-2026,Home Decor,35001,Card,1
+C496,Rahul,58,Male,Calicut,28-03-2026,Sports,22767,Cash,2
+C497,Amit,50,Female,Calicut,14-01-2026,Electronics,3196,Cash,3
+C498,Akash,56,Female,Kannur,28-02-2026,Sports,8968,Cash,4
+C499,Vivek,28,Female,Kochi,15-02-2026,Groceries,14901,Card,2
+C500,Rahul,55,Male,Kochi,04-04-2026,Fashion,46803,UPI,4
