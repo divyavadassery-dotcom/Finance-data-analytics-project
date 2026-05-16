@@ -80,4 +80,4 @@ Customer-Spending-Analysis/
 └── README.md
 ```
 ## Author
-Divya.mathews
+Divya Mathews
